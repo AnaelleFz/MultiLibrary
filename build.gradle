@@ -27,6 +27,7 @@ allprojects {
     ext {
         // Libraries
         daggerVersion = '2.8'
+        rxJava2Version = '2.2.17'
     }
 }
 
